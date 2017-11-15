@@ -1,0 +1,71 @@
+/*CSS reset settings here*/
+*{
+ margin: 0px;
+}
+#wrapper{
+ width: 970px;
+ height: 625px;
+ background-color: #0038A8;
+ margin: 5px auto;
+ padding: 15px;
+}
+#header{
+ height: 80px;
+ background-color: red;
+ margin-bottom: 15px;
+ padding: 20px; 
+ height: 40px;
+ border-radius: 25px; 
+}
+#navigation{
+ height: 200px;
+ width: 200px;
+ background-color: #007BB8;
+ display:inline-block;
+ vertical-align: top;
+ border-radius: 25px;
+ margin: 15px;
+ }
+#main_content{
+ height: 400px;
+ width: 700px;
+ background-color: #1D2951;
+ display:inline-block;
+ padding: 15px;
+ border-radius: 15px;
+ margin-top: 15px;
+}
+#empty_block{
+margin-bottom: 5px;
+}
+#advertisement{
+ height: 70px;
+ width: 970px;
+ background-color: grey;
+ margin-top: 25px;
+ border-radius: 15px;
+ margin-left: -250px;
+ }
+ h1, h3{
+ 	color: white;
+ }
+h2{
+	color: white;
+	font-size: 13px;
+	padding: 25px;
+}
+p{
+	font-size: 13px;
+	color: white;
+}
+li{
+	font-size: 13px;
+	color: white;
+	
+}
+a {
+    color: teal;
+}
+u {
+	color: white;
+}
